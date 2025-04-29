@@ -1,0 +1,16 @@
+#Background{
+  height: 100%;
+  width: 100%;
+  background:
+  linear-gradient(95deg, #0096cdb3 50%, #113984b2 0%),
+  url('/Paypal/Images/img_hero-desktop_home.jpg');
+  background-size: cover;
+  background-position: center, center;
+  background-repeat: no-repeat;
+  }
+
+  body{
+    overflow-x: hidden;
+  }
+  
+  
